@@ -13,3 +13,6 @@ http://www.pjreddie.com/media/files/mnist_test.csv
 
 https://raw.githubusercontent.com/makeyourownneuralnetwork/makeyourownneuralnetwork/master/mnist_dataset/mnist_test_10.csv
 https://raw.githubusercontent.com/makeyourownneuralnetwork/makeyourownneuralnetwork/master/mnist_dataset/mnist_train_100.csv
+
+### 原书的官方github
+https://github.com/makeyourownneuralnetwork
