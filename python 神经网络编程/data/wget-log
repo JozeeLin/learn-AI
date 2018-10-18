@@ -1,28 +1,0 @@
-HTTP request sent, awaiting response... 206 Partial Content
-Length: 109575994 (104M), 86671469 (83M) remaining [application/octet-stream]
-Saving to: ‘mnist_train.csv’
-
-
-
-2018-10-18 13:59:14 (5.10 KB/s) - Read error at byte 28261745/109575994 (Connection reset by peer). Retrying.
-
---2018-10-18 13:59:16--  (try: 3)  https://pjreddie.com/media/files/mnist_train.csv
-Connecting to pjreddie.com (pjreddie.com)|128.208.3.39|:443... connected.
-HTTP request sent, awaiting response... 206 Partial Content
-Length: 109575994 (104M), 81314249 (78M) remaining [application/octet-stream]
-Saving to: ‘mnist_train.csv’
-
-
-
-2018-10-18 14:28:46 (9.16 KB/s) - Read error at byte 42302485/109575994 (Connection reset by peer). Retrying.
-
---2018-10-18 14:28:49--  (try: 4)  https://pjreddie.com/media/files/mnist_train.csv
-Connecting to pjreddie.com (pjreddie.com)|128.208.3.39|:443... connected.
-HTTP request sent, awaiting response... 206 Partial Content
-Length: 109575994 (104M), 67273509 (64M) remaining [application/octet-stream]
-Saving to: ‘mnist_train.csv’
-
-mnist_train.csv                             99%[+++++++++++++++++++++++++++++++++=====================================================> ] 104.21M  9.94KB/s    eta 31s    mnist_train.csv                             99%[+++++++++++++++++++++++++++++++++=====================================================> ] 104.22M  10.3KB/s    eta 29s    mnist_train.csv                             99%[+++++++++++++++++++++++++++++++++=====================================================> ] 104.24M  11.1KB/s    eta 28s    mnist_train.csv                             99%[+++++++++++++++++++++++++++++++++=====================================================> ] 104.26M  11.2KB/s    eta 28s    mnist_train.csv                             99%[+++++++++++++++++++++++++++++++++=====================================================> ] 104.27M  11.8KB/s    eta 28s    mnist_train.csv                             99%[+++++++++++++++++++++++++++++++++=====================================================> ] 104.29M  12.5KB/s    eta 23s    mnist_train.csv                             99%[+++++++++++++++++++++++++++++++++=====================================================> ] 104.32M  13.5KB/s    eta 23s    mnist_train.csv                             99%[+++++++++++++++++++++++++++++++++=====================================================> ] 104.35M  13.9KB/s    eta 16s    mnist_train.csv                             99%[+++++++++++++++++++++++++++++++++=====================================================> ] 104.38M  14.4KB/s    eta 13s    mnist_train.csv                             99%[+++++++++++++++++++++++++++++++++=====================================================> ] 104.41M  15.5KB/s    eta 13s    mnist_train.csv                             99%[+++++++++++++++++++++++++++++++++=====================================================> ] 104.43M  16.1KB/s    eta 8s     mnist_train.csv                             99%[+++++++++++++++++++++++++++++++++=====================================================> ] 104.44M  17.4KB/s    eta 8s     mnist_train.csv                             99%[+++++++++++++++++++++++++++++++++=====================================================> ] 104.46M  17.2KB/s    eta 4s     mnist_train.csv                             99%[+++++++++++++++++++++++++++++++++=====================================================> ] 104.47M  17.7KB/s    eta 3s     mnist_train.csv                             99%[+++++++++++++++++++++++++++++++++=====================================================> ] 104.49M  18.2KB/s    eta 1s     mnist_train.csv                            100%[+++++++++++++++++++++++++++++++++======================================================>] 104.50M  18.6KB/s    in 1h 54m  
-
-2018-10-18 16:23:24 (9.56 KB/s) - ‘mnist_train.csv’ saved [109575994/109575994]
-
